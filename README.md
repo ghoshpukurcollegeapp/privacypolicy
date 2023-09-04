@@ -1,1 +1,1 @@
-## Ghoshpukur College - Ambari
+title: Ghoshpukur College
