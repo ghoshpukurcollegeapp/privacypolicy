@@ -1,1 +1,1 @@
-title: Ghoshpukur College
+# Gp
