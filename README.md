@@ -42,8 +42,7 @@ To delete your account and data permanently follow this link <br>
 
 ## Advertising
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br>
-- <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
-'Unity Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. Start.io Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings.'
+- <a href="https://unity3d.com/legal/privacy-policy">UNITY</a> - Unity Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. Start.io Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings.'
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
