@@ -59,4 +59,4 @@ Have any questions or concerns regarding our privacy policy? We'd love to hear f
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
 <br><br>
-Lasr updated on 2023-Aug-16.
+Lasr updated on 2023-Sep-04.
