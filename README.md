@@ -11,7 +11,7 @@ While using our Service, we may ask you to provide us with certain personally id
 1. Google account information such as name and email address.
 2. Your device information such as advertising id and other device information for Analytical purpose gathered by Firebase Analytics and One Signal<br>
 
-### - File Access Permissions and Uploading
+### - File Access Permissions and uploading
 The Ghoshpukur College app kindly requests permission to access files on your device. This access is essential for enabling features such as uploading images and other necessary files, but it's important to note that this uploading system is exclusively reserved for the app's administrators. Rest assured that all files you share with us are stored securely on our servers and are accessible only to authorized personnel, maintaining the utmost privacy and security of your data. Your files are in safe hands.
 
 ### - Use of Data
