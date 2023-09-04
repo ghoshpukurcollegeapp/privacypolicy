@@ -4,6 +4,7 @@ We collect several different types of information within our app for various pur
 Below is the list of Third Party Services we use within our app
 - <a href="https://policies.google.com/privacy">Google Play Services</a>
 - <a href="https://firebase.google.com/support/privacy">Firebase</a>
+- <a href="https://onesignal.com/privacy_policy#:~:text=OneSignal%20does%20not%20share%20SDK,or%20Client%20requests%20or%20authorizes">One Signal Notification</a>
 
 ### - PERSONAL DATA
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”).
