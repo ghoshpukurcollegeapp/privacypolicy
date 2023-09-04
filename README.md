@@ -6,7 +6,7 @@ Below is the list of Third Party Services we use within our app. You can read th
 - <a href="https://firebase.google.com/support/privacy">Firebase</a>
 - <a href="https://onesignal.com/privacy_policy#:~:text=OneSignal%20does%20not%20share%20SDK,or%20Client%20requests%20or%20authorizes">One Signal Notification</a>
 
-### - PERSONAL DATA
+### - Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”).
 1. Google account information such as name and email address.
 2. Your device information such as advertising id and other device information for Analytical purpose gathered by Firebase Analytics and One Signal<br>
