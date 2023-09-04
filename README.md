@@ -31,6 +31,7 @@ We will retain your Personal Data only for as long as is necessary for the purpo
 We never ask for credit card numbers. <br>
 We do not use Malware Scanning. <br>
 We do not use an SSL certificate. <br>
+We keep your data secure within our servers
 
 ## What information do we share
 We take your privacy seriously and want to assure you that your personal information is handled with care. We do not sell or share your personal data with third parties, except when legally required. In some cases, we work with trusted third-party service providers, like Firebase, to enhance and improve your experience with the app. These providers are held to strict confidentiality agreements and are only permitted to use your information as needed to deliver their services to us. Rest assured, your privacy is a top priority for us, and we are committed to keeping your data safe and secure
