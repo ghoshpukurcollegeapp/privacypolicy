@@ -30,7 +30,10 @@ We do not use Malware Scanning. <br>
 We do not use an SSL certificate. <br>
 
 ## What information do we share
-We take your privacy seriously and want to assure you that your personal information is handled with care. We do not sell or share your personal data with third parties, except when legally required. In some cases, we work with trusted third-party service providers, like Firebase, to enhance and improve your experience with the app. These providers are held to strict confidentiality agreements and are only permitted to use your information as needed to deliver their services to us.
+We take your privacy seriously and want to assure you that your personal information is handled with care. We do not sell or share your personal data with third parties, except when legally required. In some cases, we work with trusted third-party service providers, like Firebase, to enhance and improve your experience with the app. These providers are held to strict confidentiality agreements and are only permitted to use your information as needed to deliver their services to us. Rest assured, your privacy is a top priority for us, and we are committed to keeping your data safe and secure
+
+## Secure Login with Google Authentication
+Ghoshpukur College app employs Google Authentication as a secure method for user logins. When you log into our app using Google Authentication, we utilize your Google account information solely for identity verification. Please rest assured that we never collect or store your Google account password. Our app may request access to your name and email address for a seamless and personalized user experience. Your privacy and security are our top priorities.
 
 ## Link to other sites
 Ghoshpukur College App may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
