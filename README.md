@@ -1,7 +1,7 @@
 ## What personal information do we collect and how we use them?
 We collect several different types of information within our app for various purposes to provide and improve our Service to you. We also use third party services and service providers which may collect information to provide functionality in app.
 
-Below is the list of Third Party Services we use within our app
+Below is the list of Third Party Services we use within our app. You can read their privacy policy
 - <a href="https://policies.google.com/privacy">Google Play Services</a>
 - <a href="https://firebase.google.com/support/privacy">Firebase</a>
 - <a href="https://onesignal.com/privacy_policy#:~:text=OneSignal%20does%20not%20share%20SDK,or%20Client%20requests%20or%20authorizes">One Signal Notification</a>
