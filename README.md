@@ -26,6 +26,12 @@ we use the collected data for various purposes:
 We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
+## How do we protect your information?
+We keep your data encrypted
+We never ask for credit card numbers.
+We do not use Malware Scanning.
+We do not use an SSL certificate.
+
 ## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTVfOrmAAioJAhKZrb8nLS4vLnVhTGzNUiMuv_o5UDPCWyUA/viewform?usp=send_form">Delete your Account and Data Permanently</a>
@@ -39,12 +45,6 @@ Our Services are not intended for use by children under the age of 18 (â€œChildâ
 We do not knowingly ### - Retention of Data
 We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
-
-## How do we protect your information?
-We keep your data encrypted
-We never ask for credit card numbers.
-We do not use Malware Scanning.
-We do not use an SSL certificate.
 
 ## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
