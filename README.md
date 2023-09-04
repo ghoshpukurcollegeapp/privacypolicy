@@ -31,6 +31,9 @@ We never ask for credit card numbers. <br>
 We do not use Malware Scanning. <br>
 We do not use an SSL certificate. <br>
 
+## Link to other sites
+Ghoshpukur College App may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
 ## Children’s Privacy
 Our Services are not intended for use by children under the age of 18 (“Child” or “Children”). We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.
 
