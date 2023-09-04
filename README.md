@@ -26,15 +26,15 @@ we use the collected data for various purposes:
 We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 We will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
-### <b>Delete Your Account and Data</b>
+## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTVfOrmAAioJAhKZrb8nLS4vLnVhTGzNUiMuv_o5UDPCWyUA/viewform?usp=send_form">Delete your Account and Data Permanently</a>
 
-### <b> Advertising</b>
+## Advertising
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br>
 - <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
 
-### <b> Children’s Privacy </b>
+## Children’s Privacy
 Our Services are not intended for use by children under the age of 18 (“Child” or “Children”).
 We do not knowingly ### - Retention of Data
 We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
@@ -46,19 +46,19 @@ We never ask for credit card numbers.
 We do not use Malware Scanning.
 We do not use an SSL certificate.
 
-### <b>Delete Your Account and Data</b>
+## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTVfOrmAAioJAhKZrb8nLS4vLnVhTGzNUiMuv_o5UDPCWyUA/viewform?usp=send_form">Delete your Account and Data Permanently</a>
 
-### <b> Advertising</b>
+## Advertising
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br>
 - <a href="https://unity3d.com/legal/privacy-policy">UNITY</a>
 
-### <b> Children’s Privacy </b>
+## Children’s Privacy
 Our Services are not intended for use by children under the age of 18 (“Child” or “Children”).
 We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, pleasecollect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.
 
-### <b>Changes to This Privacy Policy<b>
+## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
 <br><br>
-LAST UPDATED ON 2023-Aug-16.
+Lasr updated on 2023-Aug-16.
