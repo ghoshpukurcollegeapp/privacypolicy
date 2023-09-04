@@ -5,7 +5,7 @@ Below is the list of Third Party Services we use within our app
 - <a href="https://policies.google.com/privacy">Google Play Services</a>
 - <a href="https://firebase.google.com/support/privacy">Firebase</a>
 
-- PERSONAL DATA
+### - PERSONAL DATA
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”).
 
 Email Address
