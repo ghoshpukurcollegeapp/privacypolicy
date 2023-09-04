@@ -36,13 +36,13 @@ Ghoshpukur College App may contain links to other sites. If you click on a third
 ## Children’s Privacy
 Our Services are not intended for use by children under the age of 18 (“Child” or “Children”). We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.
 
+## Advertising
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br>
+- <a href="https://unity3d.com/legal/privacy-policy">UNITY</a> - Unity Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. Start.io Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings.
+
 ## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTVfOrmAAioJAhKZrb8nLS4vLnVhTGzNUiMuv_o5UDPCWyUA/viewform?usp=send_form">Delete your Account and Data Permanently</a>
-
-## Advertising
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.<br>
-- <a href="https://unity3d.com/legal/privacy-policy">UNITY</a> - Unity Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. Start.io Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings.'
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. 
