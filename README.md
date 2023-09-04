@@ -1,1 +1,1 @@
-# privacypolicy
+# Ghoshpukur College - Ambari
