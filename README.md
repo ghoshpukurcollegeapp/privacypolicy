@@ -8,10 +8,8 @@ Below is the list of Third Party Services we use within our app
 
 ### - PERSONAL DATA
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”).
-1. Email Address <br>
-2. First Name and Last Name <br>
-3. Device id's <br>
-We may use Personal Data for the functioning of the app or to show you ads.
+1. Google account information such as name and email address.
+2. Your device information such as advertising id and other device information for Analytical purpose gathered by Firebase Analytics and One Signal<br>
 
 ### - Use of Data
 we use the collected data for various purposes:
