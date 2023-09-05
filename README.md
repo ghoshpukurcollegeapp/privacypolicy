@@ -47,7 +47,7 @@ Our Services are not intended for use by children under the age of 18 (â€œChildâ
 
 ## Advertising
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. Start.io Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings.<br>
-- <a href="https://www.applovin.com/privacy/">UNITY</a>
+- <a href="https://www.applovin.com/privacy/">AppLovin</a>
 
 ## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
