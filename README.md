@@ -46,7 +46,7 @@ Ghoshpukur College App may contain links to other sites. If you click on a third
 Our Services are not intended for use by children under the age of 18 (“Child” or “Children”). We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.
 
 ## Advertising
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. Start.io Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings.<br>
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These Ads may collect certain information from you, including but not limited to your device information and location, in order to display relevant advertisements. AppLovin Ads may also use cookies or similar technologies to track your browsing behavior and deliver targeted ads. You may opt-out of personalized advertising by adjusting your device settings. You can read their privacy policy and the data they collect and how they use from below <br>
 - <a href="https://www.applovin.com/privacy/">AppLovin</a>
 
 ## Delete Your Account and Data
