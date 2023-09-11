@@ -1,3 +1,5 @@
+[Link to Second Page](deleteaccount.md)
+
 ## What personal information do we collect and how we use them?
 We collect several different types of information within our app for various purposes to provide and improve our Service to you. We also use third party services and service providers which may collect information to provide functionality in app.
 
