@@ -7,10 +7,10 @@ We respect your right to control your personal information. Therefore, we provid
 
 
 - 1. Open Ghoshpukur College Ambari App
-  2. Open Navigation Drawer
-  3. Click on Delete my Account
-  4. Fillup the required details
-  5. DONE
+- 2. Open Navigation Drawer
+- 3. Click on Delete my Account
+- 4. Fillup the required details
+- 5. DONE
 
 
 ## Consequences of Account Deletion:
