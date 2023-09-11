@@ -1,4 +1,4 @@
-# Account Deletion
+## Account Deletion Request for Ghoshpukur College - Ambari 
 
 If you choose to delete your account, your personal information will be permanently removed from our systems, subject to any legal obligations to retain certain data.
 
@@ -22,7 +22,7 @@ When you request the deletion of your account, the following actions will be tak
 All personal information associated with your account will be permanently removed from our systems. This includes your name, email address and any other information you provided during registration.
 
 ### Access Termination:
-You will lose access to the App and its features immediately upon account deletion.
+Upon Account Delete request your account and its related data will be scheduled for deletion and will be deleted within 20 days. After your account has been deleted you can create a new fresh account with the same email if you wish to continue again later with the app.
 
 ### Data Retention:
 While we strive to process account deletion requests promptly, please note that it may take a reasonable amount of time for your data to be completely removed from our servers. However, your data will not be used for any purpose other than fulfilling your deletion request.
