@@ -1,4 +1,4 @@
-[Link to Second Page](deleteaccount.md)
+### This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other related informations if anyone decided to use the  Ghoshpukur College - Ambari App. This policy extends to all individuals using the app, including students, staff, and other vested parties connected to Ghoshpukur College - Ambari App.
 
 ## What personal information do we collect and how we use them?
 We collect several different types of information within our app for various purposes to provide and improve our Service to you. We also use third party services and service providers which may collect information to provide functionality in app.
@@ -50,7 +50,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 ## Delete Your Account and Data
 To delete your account and data permanently follow this link <br>
-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTVfOrmAAioJAhKZrb8nLS4vLnVhTGzNUiMuv_o5UDPCWyUA/viewform?usp=send_form">Delete your Account and Data Permanently</a>
+- [Request to Delete Account & Data](deleteaccount.md)
 
 ## Contact Details
 Have any questions or concerns regarding our privacy policy? We'd love to hear from you! Feel free to reach out to us at ghoshpukurcollegeapp@gmail.com. Your feedback and inquiries are important to us, and we're here to assist you in any way we can. Don't hesitate to drop us a message – we're always happy to help!
