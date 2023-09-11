@@ -3,10 +3,11 @@
 If you choose to delete your account, your personal information will be permanently removed from our systems, subject to any legal obligations to retain certain data.
 
 ### Requesting Account Deletion:
-You have the right to request the deletion of your account at any time. To initiate the account deletion process, please follow the google forms link and fill up the required details
-- <a href="https://docs.google.com/forms/d/1gZtjUxpyTeCAk9degPYMmp4znAHFuAh9ubCg93fN0To/viewform?pli=1&pli=1&pli=1&edit_requested=true">Go to Delete Account</a>
+We respect your right to control your personal information. Therefore, we provide you with the option to delete your account within our app. You have the right to request the deletion of your account at any time within our app. To initiate the account deletion process within our app you can follow this process:
 
-We respect your right to control your personal information. Therefore, we provide you with the option to delete your account. Here's what you need to know about account deletion:
+
+Open Ghoshpukur College Ambari App > Open Navigation Drawer > Click on Delete my Account > Fillup the required details > DONE
+
 
 ## Consequences of Account Deletion:
 When you request the deletion of your account, the following actions will be taken:
